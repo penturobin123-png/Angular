@@ -1,0 +1,32 @@
+.about-container {
+  padding: 40px 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.about-container h1 {
+  text-align: center;
+  color: #333;
+  margin-bottom: 40px;
+  font-size: 36px;
+}
+
+.mission-division {
+  background-color: #f8f9fa;
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.mission-division h2 {
+  color: #4a90e2;
+  margin-bottom: 20px;
+  font-size: 24px;
+}
+
+.mission-division p {
+  color: #555;
+  font-size: 16px;
+  line-height: 1.8;
+  text-align: justify;
+}
